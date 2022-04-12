@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">BICAP</string>
+    <string name="home">Home</string>
+    <string name="about">About</string>
+    <string name="version">Versione</string>
+    <string name="rate">Votaci</string>
+    <string name="mail">bicap.unimib+support@gmail.com</string>
+    <string name="website">https://psicologia.unimib.it/</string>
+    <string name="description_about">
+        Quest\'applicazione permette di compilare questionari somministrati dal dipartimento di
+        psicologia dell\'università degli studi di Milano Bicocca, secondo gli interessi dei
+        singoli utenti intenzionati a partecipare alle indagini.\nLa scelta della mano nel logo di
+        bicap, "B" nel linguaggio dei segni, avviene dopo un\'accurata ricerca stilistica che ci ha
+        permesso di coadiuvare la capacità di espressione non vincolata dal contesto, ma anzi,
+        libera di scorrere come un fiume di coscenza, con una rappresentazione visiva accattivante.\n
+        Cooperazione viene dopo comunicazione soltanto sul dizionario.
+    </string>
+    <string name="description">
+        By the same illusion which lifts the horizon of the sea to the level of the spectator on a
+        hillside, the sable cloud beneath was dished out, and the car seemed to float in the middle
+        of an immense dark sphere, whose upper half was…
+    </string>
+    <string name="tematica">Tematica</string>
+    <string name="informazioni">Informazioni</string>
+    <string name="button_termina">Termina Indagine</string>
+    <string name="button_compila">Compila</string>
+    <string name="button_compilato">COMPILATO</string>
+    <string name="tab_in_corso">In corso</string>
+    <string name="tab_disponibili">Disponibili</string>
+    <string name="dialog_error">Errore</string>
+    <string name="dialog_connect_required">Errore di connessione</string>
+    <string name="dialog_connection_required_message">
+        Sembra tu non sia connesso ad Internet, perfavore apri l\'applicazione solamente
+        in presenza di una connessione stabile
+    </string>
+    <string name="dialog_message">Sei sicuro di voler uscire? Tutti i progressi non salvati andranno perduti</string>
+    <string name="dialog_submit_question">Sei sicuro di voler terminare l\'indagine?</string>
+    <string name="dialog_submit_thank_you">Grazie per aver partecipato all\'indagine</string>
+    <string name="dialog_close">Chiudi</string>
+    <string name="dialog_download_cancel">Annulla il downlaod</string>
+    <string name="dialog_cancel">Annulla</string>
+    <string name="dialog_yes">Sì</string>
+    <string name="dialog_no">No</string>
+    <string name="dialog_email">Inserisci la tua mail per proseguire</string>
+    <string name="dialog_roger">Capito</string>
+    <string name="dialog_connection_error">
+        Non è stato possibile comunicare con il server. Assicurati che il telefono
+        sia connesso ad internet. Se il problema persiste non esitare a contattarci
+    </string>
+    <string name="dialog_loading_generic">Caricamento in corso</string>
+    <string name="dialog_downloading">Download dell\'informazione in corso</string>
+    <string name="dialog_sending">Invio dei dati al server in corso</string>
+    <string name="title_activity_email">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="no_indagini_in_corso">Non ci sono indagini in fase di compilazione</string>
+    <string name="no_indagini_disponibili">Non ci sono indagini disponibili per la compilazione</string>
+</resources>
